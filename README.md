@@ -8,4 +8,5 @@ This is a improved version of the project HTML PAGE CREATOR!
 
 --refactoring the source, using the clean code principles
 
-[Link to the old project](./Clean-Code-Course-Project)
+The old project and the description about if you can found in the repository: 
+OOP-Object-Oriented-Programming/Project HTML
